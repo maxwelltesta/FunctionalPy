@@ -1,7 +1,7 @@
 # FunctionalPy
 
 
-Goal: functionally program using Python without using built in methods
+# Goal: functionally program using Python without using built in methods
 
 
 flatten: flattens a list (turns a list of elements, which may contain more lists, into a list of single elements)
